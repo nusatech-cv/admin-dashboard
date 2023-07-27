@@ -1,0 +1,51 @@
+{
+  "name": "beauty-contest",
+  "private": true,
+  "version": "1.0.5",
+  "type": "module",
+  "scripts": {
+    "start": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "author": {
+    "name": "Nusatech",
+    "email": "admin@nusatech.id",
+    "url": "https://www.nusatech.id/"
+  },
+  "dependencies": {
+    "@headlessui/react": "^1.7.15",
+    "@reduxjs/toolkit": "^1.9.5",
+    "axios": "^1.4.0",
+    "leaflet": "^1.9.4",
+    "moment-mini": "^2.29.4",
+    "react": "^18.2.0",
+    "react-csv": "^2.2.2",
+    "react-dom": "^18.2.0",
+    "react-hot-toast": "^2.4.1",
+    "react-leaflet": "^4.2.1",
+    "react-redux": "^8.1.1",
+    "react-router-dom": "^6.8.1",
+    "redux": "^4.2.1",
+    "redux-saga": "^1.2.3",
+    "ws": "^8.13.0"
+  },
+  "devDependencies": {
+    "@types/leaflet": "^1.9.3",
+    "@types/react": "^18.0.27",
+    "@types/react-dom": "^18.0.10",
+    "@types/redux-sentry-middleware": "^0.2.2",
+    "@vitejs/plugin-react": "^3.1.0",
+    "autoprefixer": "^10.4.13",
+    "file-loader": "^6.2.0",
+    "postcss": "^8.4.21",
+    "prettier": "^2.8.4",
+    "prettier-plugin-tailwindcss": "^0.2.2",
+    "tailwindcss": "^3.2.6",
+    "typescript": "^3.8.2",
+    "vite": "^4.1.0",
+    "vite-plugin-environment": "^1.1.3",
+    "vite-tsconfig-paths": "^4.2.0",
+    "webpack": "^5.79.0"
+  }
+}
